@@ -15,3 +15,7 @@ Querendo fazer um Grid com as bandeiras dos países e tendo com base de dados ap
 Fomos para o PowerBI onde criamos todos esses gráfico interativos com os cartões também interagindo com nossos filtros.
 
 Repare que temos um País em que a bandeira é de pirata, ela está lá justamente para os clientes que não incluiram o país durante o cadastro.
+
+Criei o fundo no Paint, algo que eu jurei que teria mais trabalho, mas juro que foi bem satisfatório fazer.
+
+Segue o vídeo demonstrando o resultado
